@@ -8,3 +8,7 @@ function divisao(x, y) {
     }
     return 0;
 }
+
+function subtracao(x, y) {
+    return x - y;
+}
